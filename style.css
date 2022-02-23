@@ -1,0 +1,19 @@
+.container-fluid {
+    background-color: blue;
+}
+
+.container {
+    background-color: grey;
+}
+
+p {
+    color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.purple {
+    background-color: purple;
+}
